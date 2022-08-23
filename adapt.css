@@ -1,0 +1,248 @@
+@media (max-width:1300px) {
+    .burger-menu {
+        display: block; 
+    }
+    .navigation {
+        display: none;
+    }
+    .expedition__row {
+        flex-direction: column;
+        margin-top: 100px;
+        align-items: center;
+    }
+    .reasons__container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .reasons__image {
+      display: none;
+    }
+    .reasons__why {
+        padding: 50px 100px;
+    }
+    .reasons__riders {
+        padding: 50px 100px;
+    }
+    .weare__biker-img {
+        display: none;
+    }
+    .weare__solo {
+    left: 25%;
+    margin-bottom: 50px;
+    }
+    .wwide__image {
+       display: none;
+    }
+    .wwide__speed-container {
+        justify-content: center;
+        column-gap: 50px;
+    }
+    .wwide__speed-black {
+        margin: 0;
+      
+
+    }
+    .redsquare {
+        width: 50%;
+    }
+}
+@media (max-width:922px) {
+    .header__bike img {
+        width: 676px;  
+        padding-top: 100px;
+    }
+    .header__title {
+        font-size: 50px;
+
+    }
+
+}
+@media (max-width:768px) {
+.row-item1 {
+    padding-left: 20px;
+}
+.threethousend {
+    font-size: 55.1px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+.sevendays {
+    font-size: 28.9px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+.fifty {
+    font-size: 55.1px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+.contries {
+    font-size: 28.9px;
+    line-height: 1.2;
+    font-weight: 700; 
+}
+.wwide__title {
+    font-size: 45px;
+}
+.wwide__speed-black {
+margin-left: -20px;
+}
+.weare__solo {
+    left: 10%;
+}
+   .reasons__mainitile {
+    font-size: 40px;
+    text-align: center;
+   } 
+   .reasons__why {
+    padding: 30px;
+    
+   }
+   .journey__icon {
+    left: 45%;
+    font-size: 100px;
+   }
+}
+@media (max-width:480px) {
+    .nav-media {
+        display: none;
+    }
+    .header__title {
+        font-size: 60px;
+        padding: 0 40px;
+    }
+    .header__bike img {
+        width: 476px;  
+        padding-top: 150px;
+    }
+    .reasons__why {
+        width: 300px;
+        padding-left: 30px;
+    }
+    .weare__solo {
+        left: 3%;
+        width: 440px;
+        height: 444px;
+    }
+    .weare__title {
+        font-size: 55px;
+    }
+    .wwide__speed-container {
+        flex-direction: column;
+        column-gap: 20px;
+    }
+    .wwide__text {
+        margin-bottom: 30px;
+    }
+    .wwide__speed-row {
+        margin-bottom: 40px;
+    }
+    .speed-red-text {
+        padding: 10px;
+    }
+    .journey__media {
+        padding-top: 10px;
+        padding-bottom: 95px;
+        column-gap: 10px;
+    }
+    .journey__contacts {
+  flex-direction: column;
+  column-gap: 30px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+        
+    }
+    .journey-info {
+        margin-bottom: 180px;
+    }
+    .reasons__riders {
+
+        padding: 30px;
+        margin-top: 40px;
+        margin-bottom: -60px;
+    }
+    .header__bike img {
+        width: 376px;  
+        padding-top: 230px;
+    }
+}
+@media (max-width:320px) {
+    .header__row {
+        padding-left: 30px;
+    }
+    .logo__title {
+        font-size: 24px;
+    }
+    .logo__subtitle {
+        font-size: 12px;  
+    }
+    .header__title {
+        font-size: 50px;
+        padding: 0 15px;
+    }
+    .header__bike img {
+        width: 276px;  
+        padding-top: 230px;
+    }
+    .reasons__rider {
+        align-items: center;
+        justify-content: center;
+    }
+    .ride-info-title {
+        font-size: 30px;
+        
+    }
+    .mainrider {
+        font-size: 20px; 
+    }
+    .ride-info-text {
+        font-size: 12px;
+    }
+    .weare__title {
+        margin-top: -140px;
+    }
+    .weare__solo {
+        left: 20%;
+        width: 300px;
+        height: 444px;
+        left: 3%;
+    }
+    .weare__solo-info {
+        font-size: 16px;
+    }
+    .journey-info {
+        margin-bottom: 50px;
+    }
+    .journey__title {
+        padding-top: 30px;
+    }
+    .journey__contacts {
+        margin-top: 120px;
+        align-items: start;
+        padding-left: 20px;
+    }
+    .journey__media {
+        display: none;
+    }
+    .journey__contacts-address,
+.journey__contacts-mail,
+.journey__contacts-phone {
+    padding-bottom: 30px;
+}
+.expedidion__card-image-img {
+    width: 300px;
+    height: 300px;
+    overflow:hidden;
+
+}
+.wwide__speed-row {
+    column-gap: 20px;
+}
+.nav-item {
+    font-size: 13px;
+}
+.journey__icon {
+    font-size: 70px;
+}
+}
