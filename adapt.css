@@ -167,7 +167,7 @@ margin-left: -20px;
         padding-top: 230px;
     }
 }
-@media (max-width:320px) {
+@media (max-width:380px) {
     .header__row {
         padding-left: 30px;
     }
