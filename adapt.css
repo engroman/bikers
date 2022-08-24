@@ -246,3 +246,124 @@ margin-left: -20px;
     font-size: 70px;
 }
 }
+@media (max-width:240px) {
+    .weare__solo {
+        left: 20%;
+        width: 220px;
+        height: 444px;
+        left: 4%;
+        padding: 20px 0;
+}
+.weare__solo-row {
+    padding: 0 20px;
+}
+.weare__solo-info {
+    font-size: 13px;
+    padding: 0 10px;
+}
+.wearetext {
+    font-size: 15px;
+    padding: 0 10px;
+}
+.weare__title {
+    font-size: 45px;
+}
+.rider-image img {
+    width: 96px;
+}
+.ride-info-title {
+    font-size: 22px;
+}
+.mainrider {
+    font-size: 20px;
+}
+
+.reasons__why {
+  
+    width: 230px;
+    padding-left: 30px;
+}
+.reasons__rider {
+margin-bottom: 60px;
+}
+.reasons__riders {
+    width: 220px;
+    padding: 0 10px;
+  
+}
+.logo {
+    margin-left: -30px;
+}
+.expedidion__card-image-img {
+    width: 225px;
+    height: 225px;
+   
+}
+.expedidion__card-image-img img {
+    object-fit: cover;
+    width: 225px;
+    height: 225px;
+}
+.expedidion__card-image-red img {
+    width: 90px;
+}
+.expedidion__card-image-red {
+    margin-bottom: -92px;
+    margin-left: -2px;
+}
+.button {
+   margin-bottom: 20px;
+}
+.header__bike img {
+    
+    width: 230px;
+    padding-top: 170px;
+}
+.thousend {
+    font-size: 35px;
+}
+.threethousend {
+    font-size: 35px;
+}
+.threekmspan {
+    font-size: 30px;
+}
+.wwide__title { 
+    padding: 20px 0;
+    font-size: 35px;
+
+}
+.wwide__text {
+    font-size: 12px;
+}
+.wwide__speed-row {
+    margin-bottom: 15px;
+}
+.speed-red-text{
+    font-size: 12px; 
+}
+.fifty,
+.contries {
+    font-size: 35px;
+    padding-left: 20px;
+}
+.journey__title {
+    font-size: 45px;
+}
+.journey__icon {
+    font-size: 40px;
+    bottom: -35%;
+}
+.mail-info p {
+    font-size: 14px;
+}
+.footer__design {
+    font-size: 14px;
+}
+.footer__rights {
+    font-size: 14px;
+}
+.burger-slide a {
+    font-size: 7px;
+}
+}
